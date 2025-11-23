@@ -14,6 +14,11 @@ class Application
         return 'test';
     }
 
+    public function test2()
+    {
+        return 'test2';
+    }
+
     public function test4()
     {
         return 'test4';
